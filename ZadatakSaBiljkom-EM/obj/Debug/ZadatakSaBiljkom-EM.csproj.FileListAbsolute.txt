@@ -1,0 +1,7 @@
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\bin\Debug\ZadatakSaBiljkom-EM.exe.config
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\bin\Debug\ZadatakSaBiljkom-EM.exe
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\bin\Debug\ZadatakSaBiljkom-EM.pdb
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\obj\Debug\ZadatakSaBiljkom-EM.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\obj\Debug\ZadatakSaBiljkom-EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\obj\Debug\ZadatakSaBiljkom-EM.exe
+C:\Users\Milotić\source\repos\ZadatakSaBiljkom-EM\ZadatakSaBiljkom-EM\obj\Debug\ZadatakSaBiljkom-EM.pdb
